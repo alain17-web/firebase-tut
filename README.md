@@ -1,0 +1,1 @@
+How to populate FIREBASE/FIRESTORE DB with REACT JS form
